@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map for PG fastDIO
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+regInStart		KEYWORD2
+regInEnd		KEYWORD2
+regOutStart		KEYWORD2
+regOutEnd		KEYWORD2
+regIn8			KEYWORD2
+regIn16			KEYWORD2
+regIn24			KEYWORD2
+regIn32			KEYWORD2
+regOut8			KEYWORD2
+regOut16		KEYWORD2
+regOut24		KEYWORD2
+regOut32		KEYWORD2
+#######################################
