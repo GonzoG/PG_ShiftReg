@@ -1,4 +1,1 @@
-Fast digital IO library
 
-Library uses port manipulation. 
-For Uno, Mini, Nano, Mega, Micro and Leonardo boards.
